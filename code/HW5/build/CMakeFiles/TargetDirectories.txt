@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5/build/CMakeFiles/CGAssignment5.dir
+C:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5/build/CMakeFiles/ZERO_CHECK.dir

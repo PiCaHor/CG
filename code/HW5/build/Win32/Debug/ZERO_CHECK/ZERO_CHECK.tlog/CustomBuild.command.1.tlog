@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\DESKTOP\ASSIGNMENT5_BEZIER_CURVE\CGASSIGNMENT5\BUILD\CMAKEFILES\0590D4336C655BEC52C49D600798C58E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5 -BC:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Administrator/Desktop/Assignment5_Bezier_Curve/CGAssignment5/build/CGAssignment5.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
