@@ -137,8 +137,8 @@ void BoxApp::OnResize()
 void BoxApp::Update(const GameTimer& gt)
 {
 	float x = mRadius * sinf(mPhi) * cosf(mTheta); 
-	float y = mRadius * sinf(mPhi) * sinf(mTheta); 
-	float z = mRadius * cosf(mPhi); 
+	float z = mRadius * sinf(mPhi) * sinf(mTheta); 
+	float y = mRadius * cosf(mPhi); 
 
 	XMVECTOR pos = XMVectorSet(x, y, z, 1.0f); 
 	XMVECTOR target = XMVectorZero(); 
