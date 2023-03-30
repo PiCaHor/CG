@@ -47,6 +47,12 @@
     <ClCompile Include="ShapesApp.cpp">
       <Filter>Top File</Filter>
     </ClCompile>
+    <ClCompile Include="Waves.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LandAndWavesApp.cpp">
+      <Filter>Top File</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common\d3dApp.h">
@@ -77,6 +83,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Common\d3dx12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Waves.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
