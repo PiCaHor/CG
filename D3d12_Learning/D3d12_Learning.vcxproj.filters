@@ -53,6 +53,9 @@
     <ClCompile Include="LandAndWavesApp.cpp">
       <Filter>Top File</Filter>
     </ClCompile>
+    <ClCompile Include="LitWavesApp.cpp">
+      <Filter>Top File</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common\d3dApp.h">

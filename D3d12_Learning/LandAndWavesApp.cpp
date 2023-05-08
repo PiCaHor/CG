@@ -665,3 +665,4 @@ XMFLOAT3 LandAndWavesApp::GetHillsNormal(float x, float z)const
 
 	return n;
 }
+

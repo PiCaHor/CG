@@ -1,7 +1,8 @@
-﻿  LandAndWavesApp.cpp
+﻿  FrameResource.cpp
+  LitWavesApp.cpp
   正在生成代码
-  6 of 1809 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+  23 of 2058 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   D3d12_Learning.vcxproj -> D:\code\VsWorkspace\D3d12_Learning\Release\D3d12_Learning.exe
