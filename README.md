@@ -20,8 +20,9 @@ Report：实验报告
 |2022.12.02|上传作业5||
 |2022.12.17|上传作业6||
 |2022.2.27|上传大作业和opengl学习过程||
-|2023.9.28|UE学习1|蓝图模式的学习|
-||||
+|2023.9.28|UE学习1：WarehouseWreckage|蓝图模式的学习|
+|2023.9.29|UE学习2：ObstacleAssault|基于C++创建客制化Actor|
+|2023.10.4|UE学习2：CryptRaider|综合型小项目|
 
 ---
 
@@ -29,11 +30,30 @@ UE版本：5.1.1
 
 项目link:
 
-​	
+链接: https://pan.baidu.com/s/1DdedV9oo4bcczpbfHul6QA 
+
+提取码: s4ak
 
 截图：
 
 ![1](.\image\UE\1.png)
+
+![2](.\image\UE\2.png)
+
+地牢环境：
+
+![3](.\image\UE\3.PNG)
+
+加入抓取互动和门移动：
+
+![4](.\image\UE\4.png)
+
+![5](.\image\UE\5.png)
+
+![6](.\image\UE\6.png)
+
+![7](.\image\UE\7.png)
+
 
 ___
 
